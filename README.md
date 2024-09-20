@@ -1,0 +1,1 @@
+This data analysis project explores the sales trends and patterns in the food and beverage industry. The goal is to provide insights into customer purchasing behavior, sales performance, and market trends.
